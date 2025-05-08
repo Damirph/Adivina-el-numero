@@ -1,13 +1,13 @@
-# Adivina el Número
+# Adivina el NÃºmero
 
-¡Bienvenido al juego "Adivina el Número"! Este es un programa de consola en C# donde el objetivo es adivinar un número aleatorio generado por el sistema. El programa te guiará con pistas indicando si el número ingresado es mayor o menor al número correcto.
+Â¡Bienvenido al juego "Adivina el NÃºmero"! Este es un programa de consola en C# donde el objetivo es adivinar un nÃºmero aleatorio generado por el sistema. El programa te guiarÃ¡ con pistas indicando si el nÃºmero ingresado es mayor o menor al nÃºmero correcto.
 
 ---
 
-## **Cómo ejecutar el programa**
+## **CÃ³mo ejecutar el programa**
 
 ### **Requisitos previos**
-1. Tener instalado el **.NET SDK** (versión 6.0 o superior).
+1. Tener instalado el **.NET SDK** (versiÃ³n 6.0 o superior).
    - Puedes descargarlo desde [dotnet.microsoft.com](https://dotnet.microsoft.com/).
 2. Un sistema operativo compatible (Windows, macOS o Linux).
 
@@ -17,10 +17,10 @@
 
 #### **Desde Visual Studio**
 1. Abre el proyecto en Visual Studio.
-2. Asegúrate de que el archivo `main.cs` sea el punto de entrada del programa.
+2. AsegÃºrate de que el archivo `main.cs` sea el punto de entrada del programa.
 3. Presiona `Ctrl + F5` para ejecutar el programa.
 
-#### **Desde la línea de comandos**
-1. Abre una terminal o símbolo del sistema.
+#### **Desde la lÃ­nea de comandos**
+1. Abre una terminal o sÃ­mbolo del sistema.
 2. Navega a la carpeta del proyecto:
-   
+3. Escribir Dotnet run y esperar a que compile el proyecto.
